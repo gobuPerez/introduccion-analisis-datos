@@ -16,3 +16,10 @@ Numpy es una libreria fundamental para computación científica. Entre otras cos
 2. Implementa funciones matemáticas.
 3. Facilita tareas relacionadas con álgebra lineal o números aleatorios.
 
+## Pandas
+
+Pandas es una librería que proporciona estructuras de datos y herramientas de análisis de datos de alto rendimiento y fáciles de usar.
+1. La estructura de datos principal es el DataFrame, que puede considerarse como una tabla 2D en memoria (como una tabla de una base de datos).
+2. Ofrece funciones típicas de las hojas de cálculo disponibles mediante programación.
+3. Proporciona un alto rendimiento para manipular (unir, dividir, modificar,...) grandes conjuntos de datos.
+
